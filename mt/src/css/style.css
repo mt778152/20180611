@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    background: pink
+}
+
+.wrap {
+    width: 200px;
+    height: 100px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+}
